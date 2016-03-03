@@ -11,7 +11,7 @@ Have fun beating your own score :)
 #Screen shots
 
 <img src="http://sdz-upload.s3.amazonaws.com/prod/upload/0110.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240"/>
+alt="IMAGE ALT TEXT HERE" width="360"/>
 
 <img src="http://sdz-upload.s3.amazonaws.com/prod/upload/027.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240"/>
+alt="IMAGE ALT TEXT HERE" width="360"/>
