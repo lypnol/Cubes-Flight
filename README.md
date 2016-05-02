@@ -8,7 +8,7 @@ Main executable can be found in bin/Release/ directory.
 
 Have fun beating your own score :)
 
-#Screen shots
+#Screenshots
 
 <img src="http://sdz-upload.s3.amazonaws.com/prod/upload/0110.jpg" 
 alt="IMAGE ALT TEXT HERE" width="360"/>
