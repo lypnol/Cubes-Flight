@@ -15,3 +15,7 @@ alt="IMAGE ALT TEXT HERE" width="360"/>
 
 <img src="http://sdz-upload.s3.amazonaws.com/prod/upload/027.jpg" 
 alt="IMAGE ALT TEXT HERE" width="360"/>
+
+#More
+
+Check some of my web mini games <a href="http://centraledev.com/games.php">here</a>
