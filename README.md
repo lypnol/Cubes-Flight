@@ -2,9 +2,8 @@
 A simple 3D mini game for Windows
 
 ## Description
-Using SDL and OpenGL with a native C implementation under Code::blocks.
-
-Main executable can be found in bin/Release/ directory.
+Uses SDL and OpenGL with a native C implementation under Code::blocks IDE.  
+Main executable for **Windows** can be found in `bin/Release/` directory.
 
 Have fun beating your own score :)
 
@@ -17,4 +16,4 @@ alt="IMAGE ALT TEXT HERE" width="350"/>
 
 #More
 
-Check some of my web mini games <a href="http://centraledev.com/games.php">here</a>
+Check out my Javascript mini games <a href="http://centraledev.com/games.php">here</a>
